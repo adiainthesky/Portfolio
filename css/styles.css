@@ -1,0 +1,70 @@
+body {
+  background-color: lavenderblush
+}
+.box {
+  border: 1px purple;
+  padding: 10px;
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 100%;
+  box-sizing: border-box;
+  background-color: rgb(130, 130, 184);
+}
+
+
+
+h1 {
+  color: lightcoral;
+  text-align: center;
+  font-weight: bold;
+  font-size: 40px;
+
+}
+
+
+img {
+  margin: auto;
+  width: 25%;
+  height: auto;
+  display: block;
+  align: left;
+}
+
+
+
+.container{
+  margin: auto;
+  display: block;
+  width: 1200px;
+  position: relative;
+}.wrapper {
+  background-color: rgb(201, 143, 162);
+  color: aliceblue;
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+}
+.column-img  {
+  padding: 10px;
+  background-color: lavenderblush;
+  font-size: 1.5em;
+  width: 60%;
+  margin-left: 100px; 
+}
+.hobbies-img {
+  float: left; 
+  width: 100%;
+ }
+.column-text  {
+  padding: 30px;
+  background-color: lavenderblush;
+  font-size: 6px
+  width: 60%;
+  margin-right: 100px
+}
+.hobbies-text {
+  color: rgb(145, 104, 117);
+  float:right;
+}
+
