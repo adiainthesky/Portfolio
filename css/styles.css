@@ -27,9 +27,14 @@ h1 {
   text-align: center;
   font-weight: bold;
   font-size: 40px;
-
 }
 
+p
+{color: rgb(59, 43, 43);
+  text-align: left;
+  font-weight: bold;
+  font-size: 16px;
+}
 
 img {
   border: darkslateblue;
@@ -93,7 +98,6 @@ img {
   color: rgb(145, 104, 117);
   float:right
 }
-
 
 
 
