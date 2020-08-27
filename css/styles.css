@@ -10,7 +10,6 @@ body {
   background-color: rgb(130, 130, 184);
 }
 
-
 .box2 {
   padding: 10px;
   margin: auto;
@@ -57,19 +56,11 @@ img {
   box-sizing: border-box;
 }
 
-
-
 .container{
   margin: auto;
   display: block;
   width: 1200px;
   position: relative;
-
-
-
-
-
-
 
 }.wrapper {
   background-color: rgb(201, 143, 162);
@@ -83,7 +74,7 @@ img {
   background-color: lavenderblush;
   font-size: 1.5em;
   width: 60%;
-  margin-left: 100px;
+  margin-left: 30px;
 }
 .hobbies-img {
   float: left; 

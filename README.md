@@ -9,7 +9,7 @@ This website shares a bit about Adelaide, including current coding projects, hob
 
 ## Setup/Installation
 
-* Clone from https://github.com/adiainthesky/Portfolio
+* Clone from https://adiainthesky.github.io/Portfolio/
 * Open page in web browser
 
 ## Known Bugs
@@ -28,5 +28,4 @@ Please contact adiainthesky@gmail.com for questions, concerns, suggestions, or c
 
 ### License
 
-Copyright(c) Adelade Nalley
-This software is licensed under the MIT license. 
+Copyright(c) 2020 Adelade Nalley, CCO 1.0 Universal
